@@ -6,3 +6,8 @@ header {
     left: 0px;
     min-width: 10000px;
 }
+
+video {
+    max-width:780px ;
+    max-height:420px ;
+}
